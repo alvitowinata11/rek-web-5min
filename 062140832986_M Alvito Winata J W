@@ -1,0 +1,37 @@
+Kelebihan dan Kekurangan PHP 7
+
+Kelebihan
+1. Kinerja Yang Lebih Baik
+2. Penanganan Kesalahan Yang Lebih Baik
+3. Type Hinting Yang Lebih Kuat
+4. Pembaruan Operator
+5. Type Declaration
+6. Null Coalescing Operator
+7. Skalabilitas
+8. Nullable Types
+9. Void Return Type
+10. Pengelolaan String Yang lebih Baik
+11. Extention Improvements
+
+Kekurangan
+1. Kompatibilitas Mundur
+2. Keterbatasan Ecosystem
+3. Tingkat Penerimaan
+4. Belajar Kurva Meningkat
+5. Pembaruan Kode Lama
+6. Keterbatasan Fungsional Baru
+
+Kelebihan dan Kekurangan PHP 8
+
+Kelebihan
+1. Penyempurnaan Kinerja
+2. JIT (Just-In-Time) Compilation
+3. Fitur Baru
+4. Nullsafe Operator
+5. Pembaruan Type System
+
+Kekurangan
+1. Kompatibilitas Mundur
+2. Memerlukan Pengetahuan Lebih Mendalam
+3. Keterbatasan Ekosistem
+4. Belum Stabil Sepenuhnya
